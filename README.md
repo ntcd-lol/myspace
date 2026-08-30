@@ -7,8 +7,8 @@
 
 <div id="badges" align="center">
 
-[![current release](https://img.shields.io/github/release/ntcd_lol/myspace.svg)](https://github.com/ntcd_lol/myspace/releases)
-[![license](https://img.shields.io/github/license/ntcd_lol/myspace.svg)](https://github.com/ntcd_lol/myspace/blob/master/LICENSE)
+[![current release](https://img.shields.io/github/release/ntcd-lol/myspace.svg)](https://github.com/ntcd-lol/myspace/releases)
+[![license](https://img.shields.io/github/license/ntcd-lol/myspace.svg)](https://github.com/ntcd-lol/myspace/blob/master/LICENSE)
 
 </div>
 
@@ -27,23 +27,23 @@
 
 :tada: :tada:
 Download latest release here:
-[stable](https://github.com/ntcd_lol/myspace/releases/latest) or
-[insiders](https://github.com/ntcd_lol/myspace/releases?q=prerelease:true)
+[stable](https://github.com/ntcd-lol/myspace/releases/latest) or
+[insiders](https://github.com/ntcd-lol/myspace/releases?q=prerelease:true)
 :tada: :tada:
 
-[More info / helpful tips are here.](https://github.com/ntcd_lol/myspace/blob/master/docs/index.md)
+[More info / helpful tips are here.](https://github.com/ntcd-lol/myspace/blob/master/docs/index.md)
 
 ## <a id="build"></a>Build
 
-Build instructions can be found [here](https://github.com/ntcd_lol/myspace/blob/master/docs/howto-build.md)
+Build instructions can be found [here](https://github.com/ntcd-lol/myspace/blob/master/docs/howto-build.md)
 
 ### Documentation
 
-For more information on getting all the telemetry disabled, tips for migrating from Visual Studio Code to VSCodium and more, have a look at [the Docs page](https://github.com/ntcd_lol/myspace/blob/master/docs/index.md) page.
+For more information on getting all the telemetry disabled, tips for migrating from Visual Studio Code to VSCodium and more, have a look at [the Docs page](https://github.com/ntcd-lol/myspace/blob/master/docs/index.md) page.
 
 ### Troubleshooting
 
-If you have any issue, please check [the Troubleshooting page](https://github.com/ntcd_lol/myspace/blob/master/docs/troubleshooting.md) or the existing issues.
+If you have any issue, please check [the Troubleshooting page](https://github.com/ntcd-lol/myspace/blob/master/docs/troubleshooting.md) or the existing issues.
 
 ### Extensions and the Marketplace
 
