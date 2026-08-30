@@ -14,7 +14,7 @@
 
 **This is a fork. This is a repository fork of VSCodium - that NOT a fork of VSCode.**
 
-> [!WARN]
+> [!WARNING]
 > myspace - unstable project, but you can say about [bugs today!](#troubleshooting)
 
 ## Table of Contents
