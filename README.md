@@ -14,12 +14,13 @@
 
 **This is a fork. This is a repository fork of VSCodium - that NOT a fork of VSCode.**
 
+> ![WARN]
+> myspace - unstable project, but you can say about [bugs today!](#troubleshooting)
+
 ## Table of Contents
 
 - [Download/Install](#download-install)
 - [Build](#build)
-- [Why Does This Exist](#why)
-- [More Info](#more-info)
 - [Supported Platforms](#supported-platforms)
 - [Previously Supported Platforms](#previously-supported-platforms)
 
