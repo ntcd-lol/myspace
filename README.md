@@ -26,11 +26,9 @@
 
 ## <a id="download-install"></a>Download/Install
 
-:tada: :tada:
 Download latest release here:
 [stable](https://github.com/ntcd-lol/myspace/releases/latest) or
 [insiders](https://github.com/ntcd-lol/myspace/releases?q=prerelease:true)
-:tada: :tada:
 
 [More info / helpful tips are here.](https://github.com/ntcd-lol/myspace/blob/master/docs/index.md)
 
